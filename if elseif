@@ -6,4 +6,4 @@ if (time < 10) {
 } else {
   System.out.println("Good evening.");
 }
-// Outputs "Good evening."
+// Outputs "Good evening. "
